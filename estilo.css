@@ -1,0 +1,22 @@
+
+h1 {
+    color: #6c2eb9;
+    font-weight: normal;
+    background-color: bisque;
+    padding: 10PX;
+    display: inline;
+    margin: 10PX;
+    box-sizing: content-box;
+    text-align: center;
+    font-size: 40px;
+    font-family: Arial;
+    font-weight: 300;
+    text-transform: uppercase;
+  }
+
+  .caja1 {
+      width: 200px;
+      height:200px;
+      background: blueviolet;
+      margin: auto;
+  }
