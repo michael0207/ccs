@@ -1,4 +1,4 @@
-{ [
+[
       {
          "id": 1,
          "title": "Technique Guides",
@@ -24,4 +24,3 @@
          "rightColor": "#F76B1C"
       }
 ]
-}
