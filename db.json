@@ -1,4 +1,4 @@
-'[
+{
       {
          "id": 1,
          "title": "Technique Guides",
@@ -23,4 +23,4 @@
          "leftColor": "#FAD961",
          "rightColor": "#F76B1C"
       }
-]'
+}
